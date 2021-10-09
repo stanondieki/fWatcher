@@ -1,0 +1,15 @@
+C:\Users\nyandika\source\repos\activation1\bin\Debug\net6.0\activation1.exe
+C:\Users\nyandika\source\repos\activation1\bin\Debug\net6.0\activation1.deps.json
+C:\Users\nyandika\source\repos\activation1\bin\Debug\net6.0\activation1.runtimeconfig.json
+C:\Users\nyandika\source\repos\activation1\bin\Debug\net6.0\activation1.dll
+C:\Users\nyandika\source\repos\activation1\bin\Debug\net6.0\ref\activation1.dll
+C:\Users\nyandika\source\repos\activation1\bin\Debug\net6.0\activation1.pdb
+C:\Users\nyandika\source\repos\activation1\obj\Debug\net6.0\activation1.csproj.AssemblyReference.cache
+C:\Users\nyandika\source\repos\activation1\obj\Debug\net6.0\activation1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyandika\source\repos\activation1\obj\Debug\net6.0\activation1.AssemblyInfoInputs.cache
+C:\Users\nyandika\source\repos\activation1\obj\Debug\net6.0\activation1.AssemblyInfo.cs
+C:\Users\nyandika\source\repos\activation1\obj\Debug\net6.0\activation1.csproj.CoreCompileInputs.cache
+C:\Users\nyandika\source\repos\activation1\obj\Debug\net6.0\activation1.dll
+C:\Users\nyandika\source\repos\activation1\obj\Debug\net6.0\ref\activation1.dll
+C:\Users\nyandika\source\repos\activation1\obj\Debug\net6.0\activation1.pdb
+C:\Users\nyandika\source\repos\activation1\obj\Debug\net6.0\activation1.genruntimeconfig.cache
