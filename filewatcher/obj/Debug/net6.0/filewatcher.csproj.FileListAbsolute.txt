@@ -1,0 +1,15 @@
+C:\Users\nyandika\source\repos\filewatcher\bin\Debug\net6.0\filewatcher.exe
+C:\Users\nyandika\source\repos\filewatcher\bin\Debug\net6.0\filewatcher.deps.json
+C:\Users\nyandika\source\repos\filewatcher\bin\Debug\net6.0\filewatcher.runtimeconfig.json
+C:\Users\nyandika\source\repos\filewatcher\bin\Debug\net6.0\filewatcher.dll
+C:\Users\nyandika\source\repos\filewatcher\bin\Debug\net6.0\ref\filewatcher.dll
+C:\Users\nyandika\source\repos\filewatcher\bin\Debug\net6.0\filewatcher.pdb
+C:\Users\nyandika\source\repos\filewatcher\obj\Debug\net6.0\filewatcher.csproj.AssemblyReference.cache
+C:\Users\nyandika\source\repos\filewatcher\obj\Debug\net6.0\filewatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyandika\source\repos\filewatcher\obj\Debug\net6.0\filewatcher.AssemblyInfoInputs.cache
+C:\Users\nyandika\source\repos\filewatcher\obj\Debug\net6.0\filewatcher.AssemblyInfo.cs
+C:\Users\nyandika\source\repos\filewatcher\obj\Debug\net6.0\filewatcher.csproj.CoreCompileInputs.cache
+C:\Users\nyandika\source\repos\filewatcher\obj\Debug\net6.0\filewatcher.dll
+C:\Users\nyandika\source\repos\filewatcher\obj\Debug\net6.0\ref\filewatcher.dll
+C:\Users\nyandika\source\repos\filewatcher\obj\Debug\net6.0\filewatcher.pdb
+C:\Users\nyandika\source\repos\filewatcher\obj\Debug\net6.0\filewatcher.genruntimeconfig.cache
